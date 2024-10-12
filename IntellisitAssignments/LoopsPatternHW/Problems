@@ -1,0 +1,55 @@
+WAP to print the following pattern:
+    *
+    *  *
+    *  *  *
+    *  *  *  *
+    *  *  *  *  *
+
+1
+    1  2
+    1  2  3
+    1  2  3  4
+    1  2  3  4  5
+
+    a
+    a  b
+    a  b  c
+    a  b  c  d
+    a  b  c  d  e
+
+
+    A
+    B B
+    C C C
+    D D D D
+    E E E E E
+
+    9
+    8  7
+    6  5  4
+    3  2  1  0
+
+    5  5  5  5  5
+    4  4  4  4
+    3  3  3
+    2  2
+    1
+
+    Z  Z  Z  Z  Z  Z
+    Y  Y  Y  Y  Y
+    X  X  X  X
+    W  W  W
+    V  V
+    U
+
+        *
+      *   *
+    *   *   *
+  *   *   *   *
+*   *   *   *   *
+
+      A
+    B   B
+   C  C  C
+  D  D D  D
+E  E  E  E  E
